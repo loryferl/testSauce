@@ -1,6 +1,6 @@
 // conf.js
-var username = "Cyborg",
-    accessKey = "83006b9b-f79e-4f60-8866-0c9ed66eecac";
+var username = "loryferl",
+    accessKey = "d825e7a1-019e-43d9-8c70-8dbce9fb8918";
 exports.config = {
     framework: 'jasmine',
 
